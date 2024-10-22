@@ -2,7 +2,9 @@
 
 This demonstration accompanies the paper `Using OpenKeyNav to Enhance the Keyboard-Accessibility of Web-based Data Visualization Tools`.
 
-You are encouraged to follow along 4 Demonstration and take the same actions Alex takes.
+You are encouraged to follow along *4 Demonstration* and take the same actions Alex takes.
+
+Visit the live demo at [voyager-keyboard-demo.github.io](voyager-keyboard-demo.github.io)
 
 ## Click mode
 
